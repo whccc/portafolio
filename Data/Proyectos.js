@@ -54,7 +54,7 @@ export const JsonData = [
         <h4>Repositorios GitHub</h4>
         <div style={{ display: "flex" }}>
           <div style={{ margin: "5px" }}>
-            <small style={{ display: "block" }}>Frotend</small>
+            <small style={{ display: "block" }}>Frontend</small>
             <a
               style={{ color: "blue" }}
               href="https://github.com/whccc/TomaPed"
@@ -104,7 +104,7 @@ export const JsonData = [
         <h4>Repositorios GitHub</h4>
         <div style={{ display: "flex" }}>
           <div style={{ margin: "5px" }}>
-            <small style={{ display: "block" }}>Frotend</small>
+            <small style={{ display: "block" }}>Frontend</small>
             <a
               style={{ color: "blue" }}
               href="https://github.com/whccc/testpage"
@@ -157,7 +157,7 @@ export const JsonData = [
           <h4>Repositorios GitHub</h4>
           <div style={{ display: "flex" }}>
             <div style={{ margin: "5px" }}>
-              <small style={{ display: "block" }}>Frotend</small>
+              <small style={{ display: "block" }}>Frontend</small>
               <a
                 style={{ color: "blue" }}
                 href="https://github.com/whccc/makeupsoladministrator"
@@ -194,7 +194,7 @@ export const JsonData = [
           <h4>Repositorios GitHub</h4>
           <div style={{ display: "flex" }}>
             <div style={{ margin: "5px" }}>
-              <small style={{ display: "block" }}>Frotend</small>
+              <small style={{ display: "block" }}>Frontend</small>
               <a
                 style={{ color: "blue" }}
                 href="https://github.com/whccc/makeupsolpage"
@@ -244,7 +244,7 @@ export const JsonData = [
         <h4>Repositorios GitHub</h4>
         <div style={{ display: "flex" }}>
           <div style={{ margin: "5px" }}>
-            <small style={{ display: "block" }}>Frotend</small>
+            <small style={{ display: "block" }}>Frontend</small>
             <a
               style={{ color: "blue" }}
               href="https://github.com/whccc/portafolio"
