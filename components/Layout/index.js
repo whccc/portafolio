@@ -89,7 +89,7 @@ export const Layout = ({ children }) => {
         <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
         <meta
           name="description"
-          content="Portafolio Desarollador Full Stack Javascript Wilson Herney Casto Cabrera"
+          content="Portafolio Desarollador Full Stack Javascript Wilson Herney Castro Cabrera"
         />
         <meta name="theme-color" content="#000"></meta>
       </Head>

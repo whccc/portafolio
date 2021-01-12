@@ -10,7 +10,7 @@ const Inicio = () => {
     <div>
       <Layout>
         <Head>
-          <title>Portafolio Whcc</title>
+          <title>Portafolio Full Stack Javascript</title>
         </Head>
         <Header />
         <div className="Container">
