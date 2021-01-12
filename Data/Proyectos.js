@@ -218,4 +218,42 @@ export const JsonData = [
       </div>
     ),
   },
+  {
+    Title: "Portafolio",
+    DescriptionShort: "Proyectos",
+    Imagen: [{ Image: "/Portafolio1.png" }, { Image: "/Portafolio2.png" }],
+    Description: `
+        Aplicación para la visualización de proyectos hechos.
+    `,
+    Tecnologies: " React.js | Next.js | Html | Css | Javascript | Styled Jsx",
+    Links: (
+      <div className="ContainerLinks">
+        <strong>
+          <h4>Link Pagina:</h4>
+        </strong>
+        <a
+          style={{ color: "blue" }}
+          href="https://portafolio-two-mu.vercel.app/"
+          target="_blank"
+        >
+          https://portafolio-two-mu.vercel.app/
+        </a>
+        <br />
+        <br />
+        <h4>Repositorios GitHub</h4>
+        <div style={{ display: "flex" }}>
+          <div style={{ margin: "5px" }}>
+            <small style={{ display: "block" }}>Frotend</small>
+            <a
+              style={{ color: "blue" }}
+              href="https://github.com/whccc/portafolio"
+              target="_blank"
+            >
+              <img style={{ width: "50px" }} src="/github.png" />
+            </a>
+          </div>
+        </div>
+      </div>
+    ),
+  },
 ];

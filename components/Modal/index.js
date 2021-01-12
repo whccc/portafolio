@@ -61,6 +61,9 @@ export const Modal = ({ Show, SetShowModal, Data }) => {
             margin: 15px;
             max-height: 95%;
           }
+          .Container-Contenido-Data {
+            padding: 5px;
+          }
           .Container-Contenido-Data > div > div {
             margin-top: 10px;
           }
