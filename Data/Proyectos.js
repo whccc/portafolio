@@ -225,7 +225,8 @@ export const JsonData = [
     Description: `
         Aplicación para la visualización de proyectos hechos.
     `,
-    Tecnologies: " React.js | Next.js | Html | Css | Javascript | Styled Jsx",
+    Tecnologies:
+      " React.js | Next.js | Html | Css | Javascript | Styled Jsx | Pwa",
     Links: (
       <div className="ContainerLinks">
         <strong>

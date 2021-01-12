@@ -4,10 +4,14 @@ import { Skills } from "../components/Skills";
 import { Layout } from "../components/Layout";
 import { Projects } from "../components/Projects";
 import { Certificados } from "../components/Certificates";
+import Head from "next/head";
 const Inicio = () => {
   return (
     <div>
       <Layout>
+        <Head>
+          <title>Portafolio Whcc</title>
+        </Head>
         <Header />
         <div className="Container">
           <Description />
