@@ -86,7 +86,7 @@ export const JsonData = [
         contempla un proceso de reservas y cancelación de las mismas.
     `,
     Tecnologies:
-      " React.js | Next.js | Html | Css | Javascript | Mysql | Node.js | Api Rest Full | Styled Components",
+      " React.js | Next.js | Pwa | Typescript | Html | Css | Javascript | Mysql | Node.js | Api Rest Full | Styled Components",
     Links: (
       <div className="ContainerLinks">
         <strong>
@@ -138,7 +138,7 @@ export const JsonData = [
         de productos y pedidos.La aplicación se encuentra en desarrollo.
     `,
     Tecnologies:
-      "React.js | Next.js | Html | Css | Javascript | MongoDB | Node.js | Api Rest Full | Firebase Storage | Styled Components",
+      "React.js | Next.js | Typescript | Pwa | Html | Css | Javascript | MongoDB | Node.js | Api Rest Full | Firebase Storage | Styled Components",
     Links: (
       <div>
         <div className="ContainerLinks">
