@@ -184,10 +184,10 @@ export const JsonData = [
           </strong>
           <a
             style={{ color: "blue" }}
-            href="https://makeupsolpage-defe4are8.vercel.app/"
+            href="https://makeupsolpage.whccc.vercel.app/"
             target="_blank"
           >
-            https://makeupsolpage-defe4are8.vercel.app/
+            https://makeupsolpage.whccc.vercel.app/
           </a>
           <br />
           <br />
