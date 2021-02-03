@@ -6,6 +6,7 @@ export const Certificados = () => {
         <img src="/certificado1.png" />
         <img src="/certificado2.png" />
         <img src="/certificado3.png" />
+        <img src="/AWS.png" />
       </div>
       <style jsx>{`
       h1{
