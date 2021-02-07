@@ -257,4 +257,52 @@ export const JsonData = [
       </div>
     ),
   },
+  {
+    Title: "VideoConf",
+    DescriptionShort: "VideoChat",
+    Imagen: [{ Image: "/VideoConfUno.png" }, { Image: "/VideoConfDos.png" }],
+    Description: `Aplicación para la creación de salas de video chat.Se integra con video audio y chat en linea,
+    para la comunicación de los integrantes.`,
+    Tecnologies:
+      "Angular | Html | Azure | scss | Javascript | Typescript | Node.js | Express | Socket.io | Peerjs",
+    Links: (
+      <div className="ContainerLinks">
+        <strong>
+          <h4>Link Pagina:</h4>
+        </strong>
+        <a
+          style={{ color: "blue" }}
+          href="https://video-conferencia-tawny.vercel.app/"
+          target="_blank"
+        >
+          https://video-conferencia-tawny.vercel.app/
+        </a>
+        <br />
+        <br />
+        <h4>Repositorios GitHub</h4>
+        <div style={{ display: "flex" }}>
+          <div style={{ margin: "5px" }}>
+            <small style={{ display: "block" }}>Frontend</small>
+            <a
+              style={{ color: "blue" }}
+              href="https://github.com/whccc/VideoConferencia"
+              target="_blank"
+            >
+              <img style={{ width: "50px" }} src="/github.png" />
+            </a>
+          </div>
+          <div style={{ margin: "5px" }}>
+            <small style={{ display: "block" }}>Socket</small>
+            <a
+              style={{ color: "blue" }}
+              href="https://github.com/whccc/SocketVideoConferencia"
+              target="_blank"
+            >
+              <img style={{ width: "50px" }} src="/github.png" />
+            </a>
+          </div>
+        </div>
+      </div>
+    ),
+  },
 ];
