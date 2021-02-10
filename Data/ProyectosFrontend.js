@@ -135,7 +135,7 @@ export const JsonData = [
         Aplicación Ecommerce,Esta constituida por dos aplicación.La primera es la Pagina del usuario
         final.En el cual puede hacer pedidos de los diferentes productos.Por otro lado,
         La segunda es una aplicación administrativo, en el cual se contempla todo el tema
-        de productos y pedidos.La aplicación se encuentra en desarrollo.
+        de productos y pedidos.
     `,
     Tecnologies:
       "React.js | Next.js | Typescript | Pwa | Html | Css | Javascript | MongoDB | Node.js | Api Rest Full | Firebase Storage | Styled Components",
