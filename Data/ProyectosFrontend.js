@@ -8,7 +8,7 @@ export const JsonData = [
     backend y base de datos. Hubo un acompañamiento de Diseñador y levantamiento de 
     requerimientos.Por otro lado,se integró con base de datos Mongodb y SQLserver.`,
     Tecnologies:
-      "React.js | Html | Css | Javascript | SqlServer | Node.js | Api Rest Full | MongoDB",
+      "React.js | Html | Css | Javascript | SqlServer | Redux | Node.js | Api Rest Full | MongoDB",
     Links: (
       <div className="ContainerLinks">
         <strong>
