@@ -66,6 +66,26 @@ export const JsonDataMovil = [
               <img style={{ width: "50px" }} src="/github.png" />
             </a>
           </div>
+          <div style={{ margin: "5px" }}>
+            <small style={{ display: "block" }}>Socket</small>
+            <a
+              style={{ color: "blue" }}
+              href="https://github.com/whccc/WhcGRamSocket"
+              target="_blank"
+            >
+              <img style={{ width: "50px" }} src="/github.png" />
+            </a>
+          </div>
+          <div style={{ margin: "5px" }}>
+            <small style={{ display: "block" }}>Api</small>
+            <a
+              style={{ color: "blue" }}
+              href="https://github.com/whccc/WHCGRAMAPI"
+              target="_blank"
+            >
+              <img style={{ width: "50px" }} src="/github.png" />
+            </a>
+          </div>
         </div>
       </div>
     ),
