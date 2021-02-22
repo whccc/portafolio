@@ -305,4 +305,39 @@ export const JsonData = [
       </div>
     ),
   },
+  {
+    Title: "Blog",
+    DescriptionShort: "Publicación de articulos",
+    Imagen: [{ Image: "/BlogUno.png" }, { Image: "/BlogDos.png" }],
+    Description: `Aplicación para la publicación de articulos.El Frontend fue hecho con React.js y El backend con Php`,
+    Tecnologies:
+      "React.js | Html | Next.js | styled-components | Javascript | Typescript | Node.js | Php | Slim Framework | Api Rest Full",
+    Links: (
+      <div className="ContainerLinks">
+        <h4>Repositorios GitHub</h4>
+        <div style={{ display: "flex" }}>
+          <div style={{ margin: "5px" }}>
+            <small style={{ display: "block" }}>Frontend</small>
+            <a
+              style={{ color: "blue" }}
+              href="https://github.com/whccc/KonectaFrontend"
+              target="_blank"
+            >
+              <img style={{ width: "50px" }} src="/github.png" />
+            </a>
+          </div>
+          <div style={{ margin: "5px" }}>
+            <small style={{ display: "block" }}>Socket</small>
+            <a
+              style={{ color: "blue" }}
+              href="https://github.com/whccc/KonectaBackend"
+              target="_blank"
+            >
+              <img style={{ width: "50px" }} src="/github.png" />
+            </a>
+          </div>
+        </div>
+      </div>
+    ),
+  },
 ];
