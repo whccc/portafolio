@@ -56,7 +56,7 @@ export const Modal = ({ Show, SetShowModal, Data }) => {
             border-radius: 10px;
             box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.5);
             width: 100%;
-            max-width: 800px;
+            max-width: 1300px;
             overflow: auto;
             margin: 15px;
             max-height: 95%;
@@ -81,7 +81,6 @@ export const Modal = ({ Show, SetShowModal, Data }) => {
 
           img {
             width: 100%;
-            max-width: 400px;
           }
           @media (min-width: 1024px) {
             .Container-Contenido-Data {
