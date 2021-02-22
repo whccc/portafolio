@@ -311,7 +311,7 @@ export const JsonData = [
     Imagen: [{ Image: "/BlogUno.png" }, { Image: "/BlogDos.png" }],
     Description: `Aplicación para la publicación de articulos.El Frontend fue hecho con React.js y El backend con Php`,
     Tecnologies:
-      "React.js | Html | Next.js | styled-components | Javascript | Typescript | Node.js | Php | Slim Framework | Api Rest Full",
+      "React.js | Html | Next.js | MongoDB | styled-components | Javascript | Typescript | Node.js | Php | Slim Framework | Api Rest Full",
     Links: (
       <div className="ContainerLinks">
         <h4>Repositorios GitHub</h4>
