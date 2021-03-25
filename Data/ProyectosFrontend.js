@@ -327,10 +327,70 @@ export const JsonData = [
             </a>
           </div>
           <div style={{ margin: "5px" }}>
-            <small style={{ display: "block" }}>Socket</small>
+            <small style={{ display: "block" }}>Api</small>
             <a
               style={{ color: "blue" }}
               href="https://github.com/whccc/KonectaBackend"
+              target="_blank"
+            >
+              <img style={{ width: "50px" }} src="/github.png" />
+            </a>
+          </div>
+        </div>
+      </div>
+    ),
+  },
+  {
+    Title: "Blog",
+    DescriptionShort: "Publicación de articulos",
+    Imagen: [
+      { Image: "/TDDTaskUno.png" },
+      { Image: "/TDDTaskDos.png" },
+      { Image: "/TDDTaskTres.png" },
+    ],
+    Description: `Aplicación para la creación de tareas.Su infraestructura esta basada en microservicios. Tres niveles de capas Frontend-Backend-Microservicios-Base de datos. Estos desarrollos 
+    estan bajo infraestructura Docker`,
+    Tecnologies:
+      "React.js | Html | styled-components | Javascript | Typescript | Node.js | Api Rest Full | AdonisJS | Microservicios | Docker-compose | Grahpql | Postgres",
+    Links: (
+      <div className="ContainerLinks">
+        <h4>Repositorios GitHub</h4>
+        <div style={{ display: "flex" }}>
+          <div style={{ margin: "5px" }}>
+            <small style={{ display: "block" }}>Frontend</small>
+            <a
+              style={{ color: "blue" }}
+              href="https://github.com/whccc/TDDFrontBackend/tree/master/TDDFrontendReact"
+              target="_blank"
+            >
+              <img style={{ width: "50px" }} src="/github.png" />
+            </a>
+          </div>
+          <div style={{ margin: "5px" }}>
+            <small style={{ display: "block" }}>Backend</small>
+            <a
+              style={{ color: "blue" }}
+              href="https://github.com/whccc/TDDFrontBackend/tree/master/TDDBackendAdonis/api"
+              target="_blank"
+            >
+              <img style={{ width: "50px" }} src="/github.png" />
+            </a>
+          </div>
+          <div style={{ margin: "5px" }}>
+            <small style={{ display: "block" }}>Microservicios Grahql</small>
+            <a
+              style={{ color: "blue" }}
+              href="https://github.com/whccc/TDDFrontBackend/tree/master/TDDMicroServicioGrahpql"
+              target="_blank"
+            >
+              <img style={{ width: "50px" }} src="/github.png" />
+            </a>
+          </div>
+          <div style={{ margin: "5px" }}>
+            <small style={{ display: "block" }}>Docker-Compose</small>
+            <a
+              style={{ color: "blue" }}
+              href="https://github.com/whccc/TDDFrontBackend/tree/master/Dockers"
               target="_blank"
             >
               <img style={{ width: "50px" }} src="/github.png" />
