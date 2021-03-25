@@ -351,7 +351,7 @@ export const JsonData = [
     Description: `Aplicación para la creación de tareas.Su infraestructura esta basada en microservicios. Tres niveles de capas Frontend-Backend-Microservicios-Base de datos. Estos desarrollos 
     estan bajo infraestructura Docker`,
     Tecnologies:
-      "React.js | Html | styled-components | Javascript | Typescript | Node.js | Api Rest Full | AdonisJS | Microservicios | Docker-compose | Grahpql | Postgres",
+      "React.js | Html | styled-components | Javascript | Typescript | Node.js | Api Rest Full | AdonisJS | Microservicios | Docker-compose | Graphql | Postgres",
     Links: (
       <div className="ContainerLinks">
         <h4>Repositorios GitHub</h4>
