@@ -377,7 +377,7 @@ export const JsonData = [
             </a>
           </div>
           <div style={{ margin: "5px" }}>
-            <small style={{ display: "block" }}>Microservicios Grahql</small>
+            <small style={{ display: "block" }}>Microservicios Graphql</small>
             <a
               style={{ color: "blue" }}
               href="https://github.com/whccc/TDDFrontBackend/tree/master/TDDMicroServicioGrahpql"
