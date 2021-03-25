@@ -380,7 +380,7 @@ export const JsonData = [
             <small style={{ display: "block" }}>Microservicios Graphql</small>
             <a
               style={{ color: "blue" }}
-              href="https://github.com/whccc/TDDFrontBackend/tree/master/TDDMicroServicioGrahpql"
+              href="https://github.com/whccc/TDDFrontBackend/tree/master/TDDMicroServicioGraphql"
               target="_blank"
             >
               <img style={{ width: "50px" }} src="/github.png" />
